@@ -4,3 +4,6 @@
 --> The paragraph content is written inside the <p> tag. All the content inside paragraph is displyed as a single group. To get multiple paragraphs, use more than one <p> tag.
 --> For bold, content must be enclosed within either <b> or <strong> tag.
 --> For italics, content must be enclosed within <i> or <em> tag.
+--> There are two types of lists, ordered <ol> and unordered <ul>. Ordered lists are represented by numbers and unordered lists are represented by bullets by default.
+--> The itels inside the list tags are represented by list elements <li>
+--> nested loops are possible with correct placements of <ol> and <ul> insede each other.

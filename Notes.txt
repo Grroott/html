@@ -7,3 +7,5 @@
 --> There are two types of lists, ordered <ol> and unordered <ul>. Ordered lists are represented by numbers and unordered lists are represented by bullets by default.
 --> The itels inside the list tags are represented by list elements <li>
 --> nested loops are possible with correct placements of <ol> and <ul> insede each other.
+--> To place the image in web page, use <img src="" alt=""> tag. src is the source of the image and alt is the message to be displayed if path in source is failed to load. The image used in websites can be used here by providing the path of the image.
+--> To provide the link, use <a href=""></a> tag. The link to be provided in href and display names can be written inside the tags. The links can be either a local directory or links in internet.

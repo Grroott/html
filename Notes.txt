@@ -1,0 +1,6 @@
+--> HEAD tag is responsible for title of the websites.
+--> To comment the content, use "<!-- -->" or CTRL + /. For eg: <!-- content to be hidden> -->
+--> The are 6 heading tags from <h1> to <h6> depend on the size.
+--> The paragraph content is written inside the <p> tag. All the content inside paragraph is displyed as a single group. To get multiple paragraphs, use more than one <p> tag.
+--> For bold, content must be enclosed within either <b> or <strong> tag.
+--> For italics, content must be enclosed within <i> or <em> tag.

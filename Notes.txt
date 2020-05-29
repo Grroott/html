@@ -12,3 +12,8 @@
 --> To use tables, use <table> tag. It consists of two parts, For column names, use <thead> tag and <th> to specify the name of the column name. For the content, use <tr> tag and <td> to specify the values.
 --> Table borders can be added by adding keyword border in table tag like <table border="1">
 --> It is not mandatory to use table head.
+--> <input> tag is enclosed inside the <form> tag which provides lots of inbuilt features.
+--> <input type="" name="" value="">. 
+--> "type" specifies the type of the input (there are many default types such as email, password, color, text, submit, etc)
+--> "name" will be used for future reference.
+--> The text given inside "value" attribute will be dispayed in browser.

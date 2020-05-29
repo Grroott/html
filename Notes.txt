@@ -9,3 +9,6 @@
 --> nested loops are possible with correct placements of <ol> and <ul> insede each other.
 --> To place the image in web page, use <img src="" alt=""> tag. src is the source of the image and alt is the message to be displayed if path in source is failed to load. The image used in websites can be used here by providing the path of the image.
 --> To provide the link, use <a href=""></a> tag. The link to be provided in href and display names can be written inside the tags. The links can be either a local directory or links in internet.
+--> To use tables, use <table> tag. It consists of two parts, For column names, use <thead> tag and <th> to specify the name of the column name. For the content, use <tr> tag and <td> to specify the values.
+--> Table borders can be added by adding keyword border in table tag like <table border="1">
+--> It is not mandatory to use table head.

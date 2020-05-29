@@ -13,7 +13,10 @@
 --> Table borders can be added by adding keyword border in table tag like <table border="1">
 --> It is not mandatory to use table head.
 --> <input> tag is enclosed inside the <form> tag which provides lots of inbuilt features.
---> <input type="" name="" value="">. 
+--> <input type="" name="" value="" required>. 
 --> "type" specifies the type of the input (there are many default types such as email, password, color, text, submit, etc)
 --> "name" will be used for future reference.
---> The text given inside "value" attribute will be dispayed in browser.
+--> The text given inside "value" attribute will be dispayed in browser. This can be replaced with "placeholder" which makes it invisible in the browser.
+--> "required" inside the tag is used to mention the mandatory of the filed.
+--> <form action="" method=""> The page given in "action" part will be navigated after clicking submit. "method" to be filled with type of reference.
+--> <label for="idreference">Text</label>. To write in single line, use label. The "for" content to be reference as "id" in input.
